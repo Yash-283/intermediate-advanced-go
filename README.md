@@ -1,7 +1,7 @@
 # Intermediate to Advanced Go Programming
 
-Welcome to the **Intermediate to Advanced Go Programming** repository! 🎯  
-This repo contains **code examples, exercises, and resources** to help you master **Go (Golang) at an advanced level**.
+Welcome to the **Intermediate to Advanced Go Programming** repository! 
+This repo contains **code examples used during the training program**.
 
 ---
 
