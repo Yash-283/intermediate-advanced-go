@@ -33,6 +33,7 @@ cd intermediate-advanced-go
 
 ---
 
-## Additional Resources
+## Additional Information
 
 Learning Management System: https://learn.digi-safari.com/
+For any queries contact : [Yash][mailto:yash@digi-safari.com]
