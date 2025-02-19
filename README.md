@@ -35,5 +35,5 @@ cd intermediate-advanced-go
 
 ## Additional Information
 
-Learning Management System: https://learn.digi-safari.com/
-For any queries contact : [Yash][mailto:yash@digi-safari.com]
+Learning Management System: https://learn.digi-safari.com/ <br/>
+For any queries contact : [Yash](mailto:yash@digi-safari.com)
